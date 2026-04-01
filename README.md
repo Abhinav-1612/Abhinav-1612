@@ -1,6 +1,6 @@
 ![logo](https://github.com/Abhinav-1612/Abhinav-1612/blob/main/Githubbanner.jpeg)
 <h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
-<h3 align="center">A passionate CSE Data science Engineer from India</h3>
+<h3 align="center">A passionate CSE Data science Engineer from IIIT Nagpur,India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW8xdmU1cHg5a2JtMGQ1b3pzZDM5eWZsanBnbDBydXcyc3BlemJlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
