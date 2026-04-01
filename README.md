@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
-<h3 align="center">A passionate Data science Engineer from India</h3>
+<h3 align="center">A passionate CSE Data science Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW8xdmU1cHg5a2JtMGQ1b3pzZDM5eWZsanBnbDBydXcyc3BlemJlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -50,8 +50,8 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg?v=2" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav-1612&show_icons=true&locale=en&layout=compact" alt="abhinav-1612" /></p>
+<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=abhinav-1612&show_icons=true&locale=en&layout=compact&v=3" alt="abhinav-1612" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav-1612&show_icons=true&locale=en" alt="abhinav-1612" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=abhinav-1612&show_icons=true&locale=en&v=3" alt="abhinav-1612" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-1612&" alt="abhinav-1612" /></p>
