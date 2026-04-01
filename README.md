@@ -1,3 +1,4 @@
+![logo](https://github.com/Abhinav-1612/Abhinav-1612/blob/main/GithubBanner.png)
 <h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
 <h3 align="center">A passionate CSE Data science Engineer from India</h3>
 
